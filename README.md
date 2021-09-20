@@ -2,9 +2,11 @@
 
 These are scripts that I use in order to speed up my workflow when translating for the GNOME project at [Damned Lies](l10n.gnome.org).
 
-Please be aware that this is still in the making and not 100% foolproof. Working on it ;)
+Are you new to translating the GNOME Project? See below for a small introduction on how to get started!
 
-Contributions, be it bug reports or MRs, are very welcome!
+Please be aware that this is still in the making and not 100% foolproof. But as long as you don't throw too weird stuff to these scripts, you should be fine ;)
+
+Contributions, be it bug reports or PRs, are very welcome!
 
 ## What you need
 
@@ -58,3 +60,20 @@ You can also translate any untranslated strings, if you want.
 This lets you check your edits one last time and helps with writing a message about the changes to the original translator.
 
 Once all this is done, you just need to upload the file `FINAL-*.po` to Damned Lies and you are good to go!
+
+## New to translating the GNOME Project?
+
+First of all - Welcome! I am very happy that you want to contribute by translating apps for the GNOME ecosystem.
+
+A good place to get started is "Damned Lies", the web application we use to coordinate translation within the different language teams.
+Go to <https://l10n.gnome.org/teams/> and search for your language.
+
+For instructions on how to join a team, have a look at team page for your language or contact the team coordinator.
+
+Some good places to stay up to date and ask questions are as follows:
+
+- The GNOME i18n [IRC/Matrix](https://wiki.gnome.org/GettingInTouch/IRC)
+- The GNOME i18n [mailing list](https://mail.gnome.org/mailman/listinfo/gnome-i18n)
+- The mailing list of the translation team for your language
+
+If you have questions regarding the scripts in this repo, don't hesitate to ask! I'll do my best to answer them.
