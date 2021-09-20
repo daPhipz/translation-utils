@@ -6,7 +6,7 @@ Are you new to translating the GNOME Project? See below for a small introduction
 
 Please be aware that this is still in the making and not 100% foolproof. But as long as you don't throw too weird stuff to these scripts, you should be fine ;)
 
-Contributions, be it bug reports or PRs, are very welcome!
+Contributions, be it bug reports or PRs, are very welcome! Please have a look at CONTRIBUTING.md if you want to help out.
 
 ## What you need
 
