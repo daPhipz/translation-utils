@@ -1,6 +1,6 @@
 # Translation scripts
 
-These are scripts that I use in order to speed up my workflow when translating for the GNOME project at [Damned Lies](l10n.gnome.org).
+These are scripts that I use in order to speed up my workflow when translating for the GNOME project at [Damned Lies](https://l10n.gnome.org).
 
 Are you new to translating the GNOME Project? See below for a small introduction on how to get started!
 
