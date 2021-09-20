@@ -34,10 +34,18 @@ CHECKED="$TEMPDIR/checked.po"
 cp "$NEW" "$CHECKED"
 
 # Start working
+chmod -w "$OLD"
 meld "$OLD" "$CHECKED" &>/dev/null
+chmod +w "$OLD"
+
 cp "$CHECKED" "$FINAL"
 poedit "$FINAL" &>/dev/null
+
+# Compare the original version (that needed proofreading) with the proofread one,
+# in order to show the changes I made
+chmod -w "$NEW"
 meld "$NEW" "$FINAL" &>/dev/null
+chmod +w "$NEW"
 
 # Clean up
 rm -rf "$TEMPDIR"
