@@ -7,7 +7,7 @@ if [[ -n $1 ]]; then
     OLD="$1"
     # Check if file exists
     if [ ! -f "$1" ]; then
-        echo "ERROR! File '$1' does not exist, exiting.
+        echo "ERROR! File '$1' does not exist, exiting."
         exit 1
     fi
 fi
