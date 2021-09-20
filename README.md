@@ -44,7 +44,7 @@ Feedback on this is greatly appreciated!
 
 ### proofread.sh
 
-In order to proofread an existing translation, do as follows
+In order to proofread an existing translation, do as follows:
 
 1. Download the `po` file that introduced the changes you want to proofread, and the one before it.
 Use the links with "**merged**" in the filename, this ensures that any changes in the souce code are incorporated.
